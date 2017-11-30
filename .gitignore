@@ -8,3 +8,4 @@ settings/*.properties
 db/
 bak/
 xml/
+/.idea/
